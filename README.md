@@ -1,1 +1,1 @@
-<h1><font size="+5">NICKOLAI</font></h1>
+<h1><font size="+5"><style='color: red'>NICKOLAI</style></font></h1>
