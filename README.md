@@ -1,1 +1,3 @@
-<title><<u>Nickolai's Project Page</u></title>
+<header>
+  Nickolai's Project Page
+</header>
