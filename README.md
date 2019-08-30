@@ -5,7 +5,7 @@ body {background-color: white;}
 h1  {
   color: red;
   font-size: 100px;
-  font-family: "Arial";
+  font-family: "Comic Sans";
 }
 p    {color: black;}
 </style>
