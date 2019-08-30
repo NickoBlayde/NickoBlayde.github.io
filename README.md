@@ -2,7 +2,11 @@
 <head>
 <style>
 body {background-color: white;}
-h1   {color: red;} {font-size: 100px;} {font-family: "Arial";}
+h1  {
+  color: red;
+  font-size: 100px;
+  font-family: "Arial";
+}
 p    {color: black;}
 </style>
 </head>
