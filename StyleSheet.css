@@ -1,8 +1,8 @@
 h1 {
         text-align: center;
         font-style: italic;
-        font-size: 100pt;
-        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-family: "Comic Sans MS";
+        font-size: 10px;
         color: red;
         margin-bottom: 5px;
 
