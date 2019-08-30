@@ -4,9 +4,9 @@
 body {background-color: white;}
 h1  {
   color: red;
-  font-size: 300%;
+  font-size: 500%;
   font-family: "Comic Sans MS";
-  font-weight: "bold";
+  font-weight: bold;
 }
 p    {color: black;}
 </style>
