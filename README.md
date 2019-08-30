@@ -1,19 +1,12 @@
-<html>
-<head>
-<style>
-body {background-color: white;}
-h1  {
-  color: red;
-  font-family: "Comic Sans MS";
-  font-size: 500px;
-}
-p    {color: black;}
-</style>
-</head>
-<body>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css">
+  </head>
+<h1>Nickolai blah blah</h1>
 
-<h1>Nickolai's Project Page</h1>
-<p>This is a paragraph.</p>
+  <body>
 
-</body>
+  </body>
 </html>
