@@ -7,6 +7,7 @@ h1  {
   font-size: 500%;
   font-family: "Comic Sans MS";
   font-weight: bold;
+  font-style: "italic";
 }
 p    {color: black;}
 </style>
