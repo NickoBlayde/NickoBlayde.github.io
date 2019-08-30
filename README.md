@@ -4,10 +4,8 @@
 body {background-color: white;}
 h1  {
   color: red;
-  font-size: 500%;
   font-family: "Comic Sans MS";
-  font-weight: bold;
-  font-style: "italic";
+  font-size: 500%;
 }
 p    {color: black;}
 </style>
